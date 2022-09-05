@@ -1,3 +1,0 @@
-com.Eha.covid_19
-com.joinzoe.covid_zoe
-tr.gov.saglik.koronaonlem
