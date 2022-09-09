@@ -1,4 +1,4 @@
-# AI App
+# AI-driven Mobile Apps: an Explorative Study
 
 ## Project Structure
 ```
