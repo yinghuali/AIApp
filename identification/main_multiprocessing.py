@@ -19,7 +19,7 @@ def main_single(sha256_list):
     finished = 0
     for sha256_str in sha256_list:
         print('==down apk start==')
-        down_command = 'curl -O --remote-header-name -G -d apikey=8c08e1e623110c600186098a11ba882a7e323ad32b71868510c971a504eca3f9 -d sha256={sha256} https://androzoo.uni.lu/api/download'
+        down_command = 'curl -O --remote-header-name -G -d apikey=*** -d sha256={sha256} https://androzoo.uni.lu/api/download'
         down_command = down_command.format(sha256=sha256_str)
         os.system(down_command)
 
