@@ -135,12 +135,3 @@ def main_identify_online_ai(path_apk_decompile):
             return True
     return False
 
-
-# if __name__ == '__main__':
-#
-#     target = main_identify_online_ai('/home/yinghua/pycharm/MobileModelIdentif/Test/apk_decompile')
-#     print(target)
-
-
-
-
